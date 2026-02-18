@@ -5,7 +5,6 @@
 This project develops a supervised machine learning framework to predict borrower default risk using the Statlog (German Credit) dataset from the UCI Machine Learning Repository.
 
 The objective is to evaluate multiple classification algorithms under class imbalance conditions and identify a model that balances predictive performance with interpretability — a key requirement in real-world credit scoring systems.
-
 ---
 
 ## Dataset
